@@ -1,0 +1,15 @@
+SAP
+(eSign y CLM)    SYKES
+Sistemas EA.
+Plataforma Salesforce.
+Paradigmas de CI/CD, monitoreo y alerta.
+Metodología BDD/TDD.
+Cucumber.
+Spec Flow.
+XML.
+SOAP.
+Prueba de regresion.
+Pruebas exploratorias.
+Xcode.
+JSON.
+test
